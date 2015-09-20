@@ -1,7 +1,7 @@
 # synchcopy
 Copy files from source directory to current directory and skipping any that already exist.
 
-Can handle large directory sizes.
+Can handle a large number of files.
 
 Current logic:
 - If same filename exists -> skip

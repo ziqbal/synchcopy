@@ -6,7 +6,7 @@ Copies a source directory to the destination directory.
 Skips existing and zero size files.
 
 Destination directory is the current working directory.
-Can handle large directory sizes.
+Can handle a large number of files.
 
 Usage:
 php synchcopy.php SourceDirectory
