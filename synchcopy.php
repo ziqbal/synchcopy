@@ -9,7 +9,7 @@ Destination directory is the current working directory.
 Can handle large directory sizes.
 
 Usage:
-php ThisScript.php SourceDirectory
+php synchcopy.php SourceDirectory
 
 */
 
